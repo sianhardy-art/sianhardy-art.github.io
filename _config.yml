@@ -1,21 +1,20 @@
 # Site settings
-title: PHOTORAMA
+title: Sian Hardy
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "Portfolio"
+url: "https://sianhardy.art"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
+instagram_username: "sianmakesmarks"
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
-discus_shortname: ""
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Sian Hardy
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -27,9 +26,7 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
-  disqus :
-    short_name : ""
+  provider : false
 
 # Internal nav
 nav:
