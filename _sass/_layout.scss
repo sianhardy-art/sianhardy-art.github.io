@@ -21,10 +21,6 @@
     z-index: 5;
 }
 
-.header-logo:hover {
-    opacity:.9;
-}
-
 ul > .header-nav > a {
     color: $header-link-color;
 }
@@ -134,4 +130,12 @@ ul > .header-nav > a:visited {
     display: block;
     font-size: 24px;
     line-height: 1.2rem;
+}
+
+.header-logo .h1 {
+    font-size: 2em;
+}
+
+.header-logo .h2 {
+    font-size: 1.5em
 }
