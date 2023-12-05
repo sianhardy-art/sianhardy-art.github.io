@@ -1,19 +1,18 @@
 # Site settings
-title: Starving Artist Jekyll Theme
-email: ctarwater@chrisanthropic.com
-author: Chrisanthropic
+title: Sian Hardy
+email: sian.el.hardy@gmail.com
 
-keywords: jekyll, jekyll theme, portfolio theme, artist theme
-description: Witty description here.
+keywords: artist, art, sian hardy, sian, hardy, portfolio
+description: Sian Hardy's artist portfolio
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://chrisanthropic.github.io/starving-artist-jekyll-theme"
+  url: "https://sianhardy.art"
 
 header: images/logo.png
 
 # Formspree contact Form
-contact_form: "https://formspree.io/ctarwater@chrisanthropic.com"
+contact_form: "https://formspree.io/sian.el.hardy@gmail.com"
 
 
 # Exclude our ruby stuff
