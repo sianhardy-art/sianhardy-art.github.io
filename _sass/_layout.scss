@@ -1,3 +1,7 @@
+body {
+    background-color: $body-bg !important;
+}
+
 // Wrap
 .wrap {
 //    height:unquote("calc( 100vh - #{$navbar-height} )");
@@ -149,4 +153,8 @@ ul > .header-nav > a:visited {
     margin-bottom: 10px;
     margin-top: 0;
     font-weight: bold;
+}
+
+.serif {
+    font-family: $navbar-font-family !important;
 }

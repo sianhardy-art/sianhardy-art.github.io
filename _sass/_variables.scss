@@ -10,8 +10,13 @@ $link-color: $primary-color;
 $link-hover-color: lighten($link-color, 15%);
 $link-visited-color: lighten($link-color, 25%);
 
+@font-face {
+    font-family: "Free Serif";
+    src: url("/fonts/FreeSerif.otf");
+}
+
 // Text
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: 'Roboto', Helvetica, Arial, sans-serif;
 $base-font-size: 1.0em;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -35,7 +40,7 @@ $navbar-text-color: $secondary-color;
 $navbar-hover-color: $complimentary-color;
 $navbar-active-color: lighten($primary-color, 45%);
 $navbar-font-size: 13px;
-$navbar-font-family: "Open Sans", Helvetica, Arial, sans-serif;
+$navbar-font-family: "Free Serif", serif;
 $hamburger-icon-color: $complimentary-color;
 
 
