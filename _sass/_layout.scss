@@ -183,3 +183,11 @@ ul > .header-nav > a:visited {
     font-size: 0.67em;
     font-family: $navbar-font-family;
 }
+
+.paired-content td {
+    padding: 5px 0 5px 0;
+}
+.paired-content tr td:nth-child(1) {
+    font-family: $navbar-font-family;
+    padding-right: 16px;
+}
