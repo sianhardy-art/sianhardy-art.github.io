@@ -1,6 +1,6 @@
 ---
 layout: page
-title: thanks
+title: Thanks
 permalink: "/contact/thanks/"
 --- 
  
