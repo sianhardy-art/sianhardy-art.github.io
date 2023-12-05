@@ -2,6 +2,7 @@
   fa-section: brands
   fa-icon: instagram
   href: "https://instagram.com/sianhardy"
+  
 - title: "email"
   fa-section: regular
   fa-icon: envelope
