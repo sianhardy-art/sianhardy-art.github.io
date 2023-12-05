@@ -1,4 +1,8 @@
 - title: "instagram"
+  fa-section: brands
+  fa-icon: instagram
   href: "https://instagram.com/sianhardy"
 - title: "email"
+  fa-section: regular
+  fa-icon: envelope
   href: "mailto:sian.el.hardy@gmail.com"
