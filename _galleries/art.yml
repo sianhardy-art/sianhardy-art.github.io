@@ -1,11 +1,11 @@
 ---
-name: "art"
+name: "Art"
 arts:
 # Column 1
-- image: "images/galleries/illustration/AvenueinSchlossKammerPark.jpg"
+- image: "images/galleries/art/majura memory map 22 .jpg"
   order: "1"
-  title: "Avenue in Schloss Kammer Park"
-  artist: "Gustav Klimt"
+  title: "Memory Map, Mt Majura (2022)"
+  artist: "Sian Hardy"
   description: 
   
 - image: "images/galleries/illustration/Expectation.jpg"
