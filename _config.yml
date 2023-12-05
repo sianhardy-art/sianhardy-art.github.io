@@ -24,8 +24,9 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-remote_theme: sianhardy-art/starving-artist-jekyll-theme
-  
+#theme: starving-artist-jekyll-theme
+remote_theme: chrisanthropic/starving-artist-jekyll-theme
+
 # Plugins
 plugins:
   - jekyll-feed
