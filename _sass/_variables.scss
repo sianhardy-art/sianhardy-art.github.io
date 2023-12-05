@@ -2,7 +2,7 @@
 $primary-color: #FFFEF1;
 $secondary-color: #aaa;
 $complimentary-color: #000;
-$body-bg: #f3f3f2;
+$body-bg: $primary-color;
 $body-font-color: #333;
 
 // Links
@@ -21,7 +21,7 @@ $header-color: $primary-color;
 $header-link-color: $complimentary-color;
 $header-link-hover-color: $complimentary-color;
 $header-link-visted-color: $link-color;
-$header-active-link-color: $secondary-color;
+$header-active-link-color: $primary-color;
 
 // Sidebar Settings
 $sidebar-color: lighten($primary-color, 55%);
