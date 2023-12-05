@@ -134,10 +134,12 @@ ul > .header-nav > a:visited {
 
 .header-logo {
     color: $complimentary-color;
+    text-align: end;
 }
 
 .header-logo .h1 {
     font-size: 2em;
+    padding-bottom: 0;
 }
 
 .header-logo .h2 {
