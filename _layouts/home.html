@@ -3,7 +3,7 @@ layout: base
 ---
 <div class="gallery fullscreen-gallery kenburns-gallery">
     <canvas id="kenburns"></canvas>
-{% for gallery in site.galleries %} {% if gallery.name == page.title %} {% for art in gallery.arts %}
+{% for gallery in site.galleries %} {% if gallery.name == "art" %} {% for art in gallery.arts %}
     <figure class="gallery-item">
         <header class='gallery-icon'>
             <a href="{{ site.github.url }}/{{gallery.name}}/{{art.order}}">
