@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: slideshow
 title: Art
 permalink: "/art/"
 --- 
