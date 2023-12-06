@@ -1,24 +1,24 @@
 ---
-name: "Art"
+name: "work"
 arts:
 # Column 1
 - image: "images/galleries/art/majura memory map 22 .jpg"
   order: "1"
-  title: "Memory Map, Mt Majura (2022)"
-  artist: "Sian Hardy"
-  description: 
+  title: "memory map, mt majura (2022)"
+  artist: "2022"
+  description: oil on canvas
   
-- image: "images/galleries/illustration/Expectation.jpg"
+- image: "images/galleries/art/glimpses of kubara.jpg"
   order: "2"
-  title: "title"
-  artist: "Gustav Klimt"
-  description: "description"
+  title: "glimpses of kubara"
+  artist: "2022"
+  description: "oil on plywood panels"
 
-- image: "images/galleries/illustration/hygeia-detail-of-medicine-1907.jpg"
+- image: "images/galleries/art/visitor on country.jpg"
   order: "3"
-  title: "title"
-  artist: "Gustav Klimt"
-  description: "description"
+  title: "visitor on country"
+  artist: "2022"
+  description: "oil on canvas"
 
 # Column 2
 - image: "images/galleries/illustration/Baby.jpg"
