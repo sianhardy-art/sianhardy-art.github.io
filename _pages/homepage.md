@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Sian Hardy
+title: sian hardy
 logo: "images/author.jpg"
 permalink: "/"
 --- 
