@@ -31,6 +31,9 @@ remote_theme: chrisanthropic/starving-artist-jekyll-theme
 plugins:
   - jekyll-feed
 
+whitelist:
+  - jekyll-art-detail-generator
+
 feed:
   path: atom.xml
   

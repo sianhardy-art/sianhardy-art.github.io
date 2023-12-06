@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<div id="artwork-detail-image">
+    <img src="{{ site.github.url }}/{{ page.image }}" alt="{{ page.title }}" />
+</div>
+<br/>
+
+<h3 class="serif" style="margin-bottom:0">{{ page.title }}</h3>
+<h4 class="serif">{{ page.artist }}</h4>
+{{ page.description | markdownify }}
