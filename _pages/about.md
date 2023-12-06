@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 logo: "images/author.jpg"
 permalink: "/about/"
 --- 

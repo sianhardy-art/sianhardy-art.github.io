@@ -1,5 +1,5 @@
 ---
 layout: gallery
-title: Art
+title: art
 permalink: "/art/"
 --- 
