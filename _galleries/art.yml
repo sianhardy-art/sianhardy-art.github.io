@@ -2,23 +2,23 @@
 name: "work"
 arts:
 # Column 1
-- image: "images/galleries/art/majura memory map 22 .jpg"
+- image: "images/galleries/art/2022/majura memory map 22 .jpg"
   order: "1"
   title: "memory map, mt majura (2022)"
-  artist: "2022"
+  date: "2022"
   description: oil on canvas
   
-- image: "images/galleries/art/glimpses of kubara.jpg"
+- image: "images/galleries/art/2022/glimpses of kubara.jpg"
   order: "2"
-  title: "glimpses of kubara"
-  artist: "2022"
+  title: "glimpse of kubara"
+  date: "2022"
   description: "oil on plywood panels"
 
-- image: "images/galleries/art/visitor on country.jpg"
+- image: "images/galleries/illustration/hygeia-detail-of-medicine-1907.jpg"
   order: "3"
-  title: "visitor on country"
-  artist: "2022"
-  description: "oil on canvas"
+  title: "title"
+  artist: "Gustav Klimt"
+  description: "description"
 
 # Column 2
 - image: "images/galleries/illustration/Baby.jpg"
