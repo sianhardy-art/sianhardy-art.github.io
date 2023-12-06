@@ -7,13 +7,13 @@ arts:
   title: "memory map, mt majura (2022)"
   date: "2022"
   description: oil on canvas
-  
-- image: "images/galleries/art/2022/glimpses of kubara.jpg"
-  order: "2"
-  title: "glimpse of kubara"
-  date: "2022"
-  description: "oil on plywood panels"
 
+- image: "images/galleries/art/2022/vistor on country.jpg"
+  order: "2"
+  title: "visitor on country"
+  date: "2022"
+  description: "oil on canvas"
+  
 - image: "images/galleries/illustration/hygeia-detail-of-medicine-1907.jpg"
   order: "3"
   title: "title"
@@ -21,11 +21,11 @@ arts:
   description: "description"
 
 # Column 2
-- image: "images/galleries/illustration/Baby.jpg"
-  order: "4"
-  title: "Baby"
-  artist: "Gustav Klimt"
-  description: "Image with a description. This could be more info about the medium, the client, the project itself, etc."
+- image: "images/galleries/art/2022/kubara details.jpg"
+  order: "2"
+  title: "glimpses of kubara"
+  date: "2022"
+  description: "oil on plywood panels"
 
 - image: "images/galleries/illustration/Lady-with-Hat-and-Feather-Boa.jpg"
   order: "5"
