@@ -60,6 +60,8 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-detail-generator (1.0.7)
+      jekyll (~> 4.3.2)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (3.0.0)
@@ -75,7 +77,7 @@ GEM
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    mercenary (0.4.0)
+    mercenary (0.3.6)
     mini_magick (4.12.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -86,7 +88,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.6)
-    rouge (4.2.0)
+    rouge (3.30.0)
     s3_website (3.4.0)
       colored (= 1.2)
       configure-s3-website (= 2.3.0)
@@ -114,6 +116,7 @@ DEPENDENCIES
   image_optim
   image_optim_pack
   jekyll
+  jekyll-detail-generator (~> 1.0.7)
   jekyll-feed
   mini_magick
   rake

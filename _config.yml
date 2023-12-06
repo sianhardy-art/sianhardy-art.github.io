@@ -30,9 +30,7 @@ remote_theme: chrisanthropic/starving-artist-jekyll-theme
 # Plugins
 plugins:
   - jekyll-feed
-
-whitelist:
-  - jekyll-art-detail-generator
+  - jekyll-detail-generator
 
 feed:
   path: atom.xml
@@ -47,6 +45,13 @@ permalink: /blog/:year/:title
 
 collections:
   - galleries
+
+detail_page_gen:
+  - collection: galleries
+    children_property: arts
+    layout: artdetail
+    title_property: title
+    url_property: order
 
 #### SEO Stuff
 # Google Analytics
