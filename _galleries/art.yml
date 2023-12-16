@@ -3,7 +3,7 @@ name: "works"
 arts:
 # Column 1
 - image: "images/galleries/art/2022/majura memory map 22.jpg"
-  order: "1"
+  identifier: "1"
   title: "memory map, mt majura"
   date: "2022"
   description: |
@@ -13,15 +13,14 @@ arts:
       <img src="/images/galleries/art/2022/visitor on country .jpeg"/>
     </div>
 
-
 - image: "images/galleries/art/2022/visitor on country .jpeg"
-  order: "2"
+  identifier: "2"
   title: "visitor on country"
   date: "2022"
   description: "oil on canvas"
 
 - image: "images/galleries/art/2022/kubara details.jpeg"
-  order: "2"
+  identifier: "3"
   title: "glimpses of kubara"
   date: "2022"
   description: "oil on plywood panels"

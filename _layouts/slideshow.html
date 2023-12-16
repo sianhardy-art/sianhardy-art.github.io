@@ -6,7 +6,7 @@ layout: base
 {% for gallery in site.galleries %} {% if gallery.name == page.title %} {% for art in gallery.arts %}
     <figure class="gallery-item">
         <header class='gallery-icon'>
-            <a href="{{ site.github.url }}/{{gallery.name}}/{{art.order}}">
+            <a href="{{ site.github.url }}/{{gallery.name}}/{{art.identifier}}">
                 <img src="{{ site.github.url }}/{{ art.image }}" alt="{{ art.title }}">
             </a>
         </header>

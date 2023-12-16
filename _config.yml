@@ -51,7 +51,7 @@ detail_page_gen:
     children_property: arts
     layout: artdetail
     title_property: title
-    url_property: order
+    url_property: identifier
 
 #### SEO Stuff
 # Google Analytics
