@@ -10,3 +10,5 @@ gem 'image_optim'               #Optimizes our images
 gem 'image_optim_pack'          #Tools that image_optim uses
 #gem 'starving-artist-jekyll-theme'
 #gem 'starving-artist-jekyll-theme', :path => ""        # For Testing local Gems
+
+gem "jekyll-detail-generator", "~> 1.0.7"

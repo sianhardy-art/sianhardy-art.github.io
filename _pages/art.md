@@ -1,5 +1,5 @@
 ---
 layout: gallery
-title: Art
-permalink: "/art/"
---- 
+title: works
+permalink: "/works/"
+---
