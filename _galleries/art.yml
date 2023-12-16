@@ -2,6 +2,18 @@
 name: "works"
 arts:
 # Column 1
+ 
+ image: " "
+  identifier: " "
+  title: " "
+  date: " "
+  description: |
+    
+
+    <div class="description-image">
+      <img src=" "/>
+    </div>
+
 - image: "images/galleries/art/2022/majura memory map 22.jpg"
   identifier: "1"
   title: "memory map, mt majura"
@@ -10,7 +22,15 @@ arts:
     oil on canvas
 
     <div class="description-image">
-      <img src="/images/galleries/art/2022/visitor on country .jpeg"/>
+      <img src="/images/galleries/art/2022/majura detail 2.jpeg"/>
+    </div>
+
+    <div class="description-image">
+      <img src="/images/galleries/art/2022/majura detail 3.jpg"/>
+    </div>
+
+    <div class="description-image">
+      <img src="/images/galleries/art/2022/majura detail 4.jpg"/>
     </div>
 
 - image: "images/galleries/art/2022/visitor on country .jpeg"
