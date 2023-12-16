@@ -6,6 +6,9 @@ layout: default
 </div>
 <br/>
 
-<h3 class="serif" style="margin-bottom:0">{{ page.item.title }}</h3>
-<h4 class="serif">{{ page.item.artist }}</h4>
-{{ page.item.description | markdownify }}
+<h3 class="serif text-centre" style="margin-bottom:0;text-align:center;">{{ page.item.title }}</h3>
+<h4 class="serif text-centre" style="text-align:center;">{{ page.item.date }}</h4>
+
+<div class="text-centre">
+    {{ page.item.description | markdownify }}
+</div>

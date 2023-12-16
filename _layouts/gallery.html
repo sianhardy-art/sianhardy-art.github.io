@@ -4,7 +4,7 @@ layout: default
 <div class="masonry">
     <div>  {% for gallery in site.galleries %} {% if gallery.name == page.title %} {% for art in gallery.arts %}
         <div class="masonry-panel">
-            <a href="#{{ art.order }}" data-caption-desc="{{ art.description }}">
+            <a href="/{{ gallery.name }}/{{ art.order }}" data-caption-desc="{{ art.title }}">
                 <img src="{{ site.github.url }}/{{ art.image }}" alt="{{ art.title }}"class="zoom">
             </a>
         </div>{% endfor %} {% endif %} {% endfor %}
