@@ -3,17 +3,46 @@ name: "works"
 arts:
 # Column 1
  
-- image: " "
-  identifier: " "
-  title: " "
-  date: " "
+- image: "images/galleries/art/2023/walking 3.jpeg"
+  identifier: "4"
+  title: "walking"
+  date: "2023"
   description: |
-    
+    <p>Canvas, wheel-thrown and hand-altered stoneware, plants (<i>Acacia baileyana, Acacia dealbata, Callistemon viminalis, Cotoneaster glaucophyllus, Eucalyptus bridgesiana, Eucalyptus macrorhyncha, Eucalyptus mannifera, Eucalyptus pauciflora, Eucalyptus stellulata, Hardenbergia violacea, Iris siberica, Ligustrum lucidum </i>), oil paint, solvent, linseed oil, binder medium, ceramic glaze, potters stains, manganese oxide, ferrous oxide, alum, soda ash, gum arabic, honey, water, tannic acid, recycled timber beams and stands (fabricated by Aideen Watson) </p> 
 
     <div class="description-image">
-      <img src=" "/>
+      <img src="/images/galleries/art/2023/walking 1.jpg"/>
     </div>
+     <br>
+    <div class="description-image">
+      <img src="/images/galleries/art/2023/Walking 2.jpeg"/>
+    </div>
+      <br>
+    <div class="description-image">
+      <img src="/images/galleries/art/2023/walking 4.JPG"/>
+    </div>
+      <br>
+    <div class="description-image">
+      <img src="/images/galleries/art/2023/walking 5.JPG"/>
+    </div>
+      <br>
+    <div class="description-image">
+      <img src="/images/galleries/art/2023/walking 6.JPG"/>
+    </div>
+     <br>
+    <div class="description-image">
+      <img src="/images/galleries/art/2023/walking 7.JPG"/>
+    </div>
+      <br>
+    <div class="description-image">
+      <img src="/images/galleries/art/2023/walking 8.JPG"/>
+    </div>
+      <br>
+    <div class="description-image">
+      <img src="/images/galleries/art/2023/walking 9.JPG"/>
+    </div> 
 
+  
 - image: "images/galleries/art/2022/majura memory map 22.jpg"
   identifier: "1"
   title: "memory map, mt majura"
