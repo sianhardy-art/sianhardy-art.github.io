@@ -11,9 +11,9 @@ arts:
     <p>Canvas, wheel-thrown and hand-altered stoneware, plants (<i>Acacia baileyana, Acacia dealbata, Callistemon viminalis, Cotoneaster glaucophyllus, Eucalyptus bridgesiana, Eucalyptus macrorhyncha, Eucalyptus mannifera, Eucalyptus pauciflora, Eucalyptus stellulata, Hardenbergia violacea, Iris siberica, Ligustrum lucidum </i>), oil paint, solvent, linseed oil, binder medium, ceramic glaze, potters stains, manganese oxide, ferrous oxide, alum, soda ash, gum arabic, honey, water, tannic acid, recycled timber beams and stands (fabricated by Aideen Watson) </p> 
 
     <div class="description-image">
-      <img src="/images/galleries/art/2023/walking 1.jpg"/>
+      <img src="/images/galleries/art/2023/walking 1.JPG"/>
     </div>
-     <br>
+      <br>
     <div class="description-image">
       <img src="/images/galleries/art/2023/Walking 2.jpeg"/>
     </div>
@@ -57,11 +57,24 @@ arts:
       <img src="images/galleries/art/2023/uncentred detail 2.JPG"/>
     </div>
 
-- image: "images/galleries/art/2023/majura dam in orange.JPG"
-  identifier: "10"
-  title: "majura dam in orange"
-  date: "2023"
-  description: "oil paint on oil sketch paper"
+- image: "images/galleries/art/2022/majura memory map 22.jpg"
+  identifier: "1"
+  title: "memory map, mt majura"
+  date: "2022"
+  description: "oil on canvas"
+
+    <div class="description-image">
+      <img src="images/galleries/art/2022/majura detail 3.jpg"/>
+    </div>
+      <br>
+    <div class="description-image">
+      <img src="images/galleries/art/2022/majura detail 4.jpg"/>
+    </div>
+      <br>
+    <div class="description-image">
+      <img src="images/galleries/art/2022/majura detail 2.jpeg"/>
+    </div> 
+
 
 - image: "images/galleries/art/2023/Corporeal vessel.JPG"
   identifier: "9"
@@ -74,7 +87,6 @@ arts:
   title: "vessel triptych"
   date: "2023"
   description: "wheel-thrown and hand-altered stoneware, metal oxides, ceramic glaze"
-
 
 - image: "images/galleries/art/2022/visitor on country .jpeg"
   identifier: "2"
