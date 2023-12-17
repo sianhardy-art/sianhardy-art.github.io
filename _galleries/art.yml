@@ -61,20 +61,8 @@ arts:
   identifier: "1"
   title: "memory map, mt majura"
   date: "2022"
-  description: "oil on canvas"
-
-    <div class="description-image">
-      <img src="images/galleries/art/2022/majura detail 3.jpg"/>
-    </div>
-      <br>
-    <div class="description-image">
-      <img src="images/galleries/art/2022/majura detail 4.jpg"/>
-    </div>
-      <br>
-    <div class="description-image">
-      <img src="images/galleries/art/2022/majura detail 2.jpeg"/>
-    </div> 
-
+  description: |
+    oil on canvas
 
 - image: "images/galleries/art/2023/Corporeal vessel.JPG"
   identifier: "9"
