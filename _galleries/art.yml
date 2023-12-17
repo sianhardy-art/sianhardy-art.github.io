@@ -42,26 +42,39 @@ arts:
       <img src="/images/galleries/art/2023/walking 9.JPG"/>
     </div> 
 
-  
-- image: "images/galleries/art/2022/majura memory map 22.jpg"
-  identifier: "1"
-  title: "memory map, mt majura"
-  date: "2022"
+- image: "images/galleries/art/2023/Un-centred installation view.jpg"
+  identifier: "5"
+  title: "un/centreing"
+  date: "2023"
   description: |
-    oil on canvas
+    <p>Wheel-thrown mid fire stoneware, ceramic glaze with campfire ash and oyster and mussel shells from Yuin Country, found and gifted objects from Yuin Country</p>
 
-  
     <div class="description-image">
-      <img src="/images/galleries/art/2022/majura detail 3.jpg"/>
+      <img src="images/galleries/art/2023/Un-centred detail.JPG"/>
     </div>
      <br>
     <div class="description-image">
-      <img src="/images/galleries/art/2022/majura detail 4.jpg"/>
+      <img src="images/galleries/art/2023/uncentred detail 2.JPG"/>
     </div>
-      <br>
-      <div class="description-image">
-      <img src="/images/galleries/art/2022/majura detail 2.jpeg"/>
-    </div>
+
+- image: "images/galleries/art/2023/majura dam in orange.JPG"
+  identifier: "8"
+  title: "majura dam in orange"
+  date: "2023"
+  description: "oil paint on oil sketch paper"
+
+- image: "images/galleries/art/2023/Corporeal vessel.JPG"
+  identifier: "9"
+  title: "corporeal vessel"
+  date: "2023"
+  description: "handbuilt stoneware, metal oxides, ceramic glaze"
+
+- image: "images/galleries/art/2023/Organic trio.jpeg"
+  identifier: "6"
+  title: "vessel triptych"
+  date: "2023"
+  description: "wheel-thrown and hand-altered stoneware, metal oxides, ceramic glaze"
+
 
 - image: "images/galleries/art/2022/visitor on country .jpeg"
   identifier: "2"
@@ -69,9 +82,21 @@ arts:
   date: "2022"
   description: "oil on canvas"
 
+- image: "images/galleries/art/2022/view from burrungkuy.jpeg"
+  identifier: "7"
+  title: "view from burrungkuy"
+  date: "2022"
+  description: "oil on plywood panels"
+
 - image: "images/galleries/art/2022/kubara details.jpeg"
   identifier: "3"
   title: "glimpses of kubara"
   date: "2022"
   description: "oil on plywood panels"
+
+- image: "images/galleries/art/2022/leaving majura, sundown.jpg"
+  identifier: "8"
+  title: "leaving majura, sundown"
+  date: "2022"
+  description: "oil on canvas"
 ---
