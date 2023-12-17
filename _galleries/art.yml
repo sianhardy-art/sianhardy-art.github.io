@@ -21,16 +21,17 @@ arts:
   description: |
     oil on canvas
 
-    <div class="description-image">
-      <img src="/images/galleries/art/2022/majura detail 2.jpeg"/>
-    </div>
-
+  
     <div class="description-image">
       <img src="/images/galleries/art/2022/majura detail 3.jpg"/>
     </div>
-
+     <br>
     <div class="description-image">
       <img src="/images/galleries/art/2022/majura detail 4.jpg"/>
+    </div>
+      <br>
+      <div class="description-image">
+      <img src="/images/galleries/art/2022/majura detail 2.jpeg"/>
     </div>
 
 - image: "images/galleries/art/2022/visitor on country .jpeg"
