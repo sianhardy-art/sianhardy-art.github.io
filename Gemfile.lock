@@ -60,8 +60,8 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-detail-generator (1.0.7)
-      jekyll (~> 4.3.2)
+    jekyll-detail-generator (1.0.10)
+      jekyll (>= 3.7)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (3.0.0)
@@ -116,7 +116,7 @@ DEPENDENCIES
   image_optim
   image_optim_pack
   jekyll
-  jekyll-detail-generator (~> 1.0.7)
+  jekyll-detail-generator (~> 1.0.10)
   jekyll-feed
   mini_magick
   rake
