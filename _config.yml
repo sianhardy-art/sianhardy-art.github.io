@@ -1,6 +1,7 @@
 # Site settings
 title: sian hardy
 email: sian.el.hardy@gmail.com
+author: sian hardy
 
 keywords: artist, art, sian hardy, sian, hardy, portfolio
 description: Sian Hardy's artist portfolio
@@ -60,12 +61,11 @@ google_universal_analytics_cookiedomain: auto
 
 # Facebook Opengraph
 facebook_user:
-facebook_app_id:                                #enter your App ID
-facebook_locale: en_US
+facebook_locale: en_AU
 facebook_page:                                  #the URL of your Facebook Page
-facebook_image: images/author.jpg                      #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+facebook_image: images/galleries/art/2023/walking%201.JPG                  #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 # Twitter Cards
 twitter_user: 
 twitter_card: true
-twitter_image: images/author.jpg                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+twitter_image: images/galleries/art/2023/walking%201.JPG                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
