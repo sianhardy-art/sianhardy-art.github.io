@@ -9,6 +9,7 @@ description: Sian Hardy's artist portfolio
 # Only use this if you are serving your site via Github Pages
 github:
   url: ""
+metadata_url: https://sianhardy.art
 
 header: images/logo.png
 

@@ -4,31 +4,31 @@
 {% endif %}
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 <meta property="og:site_name" content="{{ site.title }}" />
-<meta property="og:url" content="{% if canonical %}{{ canonical }}{% else %}{{ site.github.url }}{% endif %}/" />
+<meta property="og:url" content="{% if site.metadata_url %}{{ site.metadata_url }}{% elsif canonical %}{% else %}{{ site.github.url }}{% endif %}/" />
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 <meta property="og:author" content="{{ site.facebook_page }}" />
 <meta property="og:locale" content="{{ site.facebook_locale }}" />
 <meta property="og:type" content="{% if page.facebook_type %}{{ page.facebook_type }}{% else %}article{% endif %}" />
 {% if page.item.image %}
-    <meta property="og:image" content="{{ site.github.url }}/{{ page.item.image }}" />
+    <meta property="og:image" content="{% if site.metadata_url %}{{ site.metadata_url }}{% else %}{{ site.github.url }}{% endif %}/{{ page.item.image }}" />
 {% elsif page.facebook_image %}
-    <meta property="og:image" content="{{ site.github.url }}/{{ page.facebook_image }}" />
+    <meta property="og:image" content="{% if site.metadata_url %}{{ site.metadata_url }}{% else %}{{ site.github.url }}{% endif %}/{{ page.facebook_image }}" />
 {% else %}
-    <meta property="og:image" content="{{ site.github.url }}/{{ site.facebook_image }}" />
+    <meta property="og:image" content="{% if site.metadata_url %}{{ site.metadata_url }}{% else %}{{ site.github.url }}{% endif %}/{{ site.facebook_image }}" />
 {% endif %}
 {% if site.twitter_card == true %}
     <meta property="twitter:card" content="{% if page.twitter_card.type %}{{ page.twitter_card.type}}{% else %}summary{% endif %}" />
     <meta property="twitter:site" content="{{ site.twitter_user }}" />
-    <meta property="twitter:url" content="{% if canonical %}{{ canonical }}{% else %}{{ site.github.url }}{% endif %}" />
+    <meta property="twitter:url" content="{% if site.metadata_url %}{{ site.metadata_url }}{% elsif canonical %}{{ canonical }}{% else %}{{ site.github.url }}{% endif %}" />
     <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="twitter:description" content="{% if page.description %}{{ page.description | strip_html | condense_spaces | truncate:200}}{% else %}{{ site.description | strip_html | condense_spaces | truncate:200 }}{% endif %}" />
     <meta property="twitter:creator" content="{% if page.twitter_card.creator %}{{ page.twitter_card.creator }}{% else %}{{ site.twitter_user }}{% endif %}" />
     {% if page.item.image %}
-        <meta property="twitter:image:src" content="{{ site.github.url }}/{{ page.item.image }}" />
+        <meta property="twitter:image:src" content="{% if site.metadata_url %}{{ site.metadata_url }}{% else %}{{ site.github.url }}{% endif %}/{{ page.item.image }}" />
     {% elsif page.twitter_card.image %}
-        <meta property="twitter:image:src" content="{{ site.github.url }}/{{ page.twitter_image }}" />
+        <meta property="twitter:image:src" content="{% if site.metadata_url %}{{ site.metadata_url }}{% else %}{{ site.github.url }}{% endif %}/{{ page.twitter_image }}" />
     {% else %}
-        <meta property="twitter:image:src" content="{{ site.github.url }}/{{ site.twitter_image }}" />
+        <meta property="twitter:image:src" content="{% if site.metadata_url %}{{ site.metadata_url }}{% else %}{{ site.github.url }}{% endif %}/{{ site.twitter_image }}" />
     {% endif %}
 {% else %}
 {% endif %}
