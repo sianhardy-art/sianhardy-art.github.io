@@ -26,7 +26,7 @@ sian is a settler on unceded aboriginal lands.
 <table class="paired-content">
     <tr>
         <td>2024</td>
-        <td><i>HoPE (HOmies for the Planet Earth)<i> group exhibition, tributary projects  </td>
+        <td><i>HoPE (Homies for the Planet Earth)</i> group exhibition, tributary projects  </td>
      </tr>
   <tr>
         <td>2023</td>
