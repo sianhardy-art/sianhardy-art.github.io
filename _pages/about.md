@@ -26,7 +26,7 @@ sian is a settler on unceded aboriginal lands.
 <table class="paired-content">
     <tr>
         <td>2024</td>
-        <td>balawan and buugang electives group exhibition, tumut visitor centre (forthcoming) </td>
+        <td><i>HoPE (HOmies for the Planet Earth)<i> group exhibition, tributary projects  </td>
      </tr>
   <tr>
         <td>2023</td>
