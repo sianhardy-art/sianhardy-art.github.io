@@ -27,6 +27,7 @@ permalink: "/about/"
     </tr>
 </table>
 
+<br/>
 
 ### exhibition history 
 <table class="paired-content">
@@ -59,6 +60,8 @@ permalink: "/about/"
         <td><i>RUST</i> pop-up gallery and fundraiser, canberra </td>
         </tr>   
 </table>
+
+<br/>
 
 ### written works
  <table class="paired-content">
