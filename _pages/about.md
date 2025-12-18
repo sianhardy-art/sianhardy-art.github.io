@@ -18,13 +18,13 @@ permalink: "/about/"
 ### education 
 <table class="paired-content">
     <tr>
-        <td>2020 - 2024</td>
-        <td>bachelor of visual arts/bachelor of arts, australian national university </td>
-        </tr>
-    <tr>
         <td>2026</td>
         <td>honours in visual arts, australian national university </td>
         <td>supervisor: dr kate hill </td>
+        </tr>
+    <tr>
+        <td>2020 - 2024</td>
+        <td>bachelor of visual arts/bachelor of arts, australian national university </td>
         </tr>
 </table>
 
@@ -70,7 +70,7 @@ permalink: "/about/"
         <td>2025</td>
         <td><i>"art-making and world-making against institutional erasure: a case study of the Shababeek Memorial Gallery",</i> demos journal </td>
         </tr>2024</td>
-        <td><i>"walking",</i> river theory magazine </td>
+        <td><i>"walking,"</i> river theory magazine </td>
     </tr>   
 </table>
 
