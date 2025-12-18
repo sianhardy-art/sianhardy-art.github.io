@@ -65,9 +65,9 @@ permalink: "/about/"
     <tr>
         <td>2025</td>
         <td><i>"art-making and world-making against institutional erasure: a case study of the Shababeek Memorial Gallery"</i> demos journal </td>
-     </tr><td>2024</td>
+     </tr>2024</td>
         <td><i>"walking",</i> river theory magazine </td>
     </tr>   
 </table>
 
-<br/>
+
