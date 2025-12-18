@@ -16,60 +16,64 @@ permalink: "/about/"
 <br/>
 
 ### education 
+
 <table class="paired-content">
     <tr>
         <td>2020 - 2024</td>
         <td>bachelor of visual arts/bachelor of arts, australian national university </td>
-        </tr>
+    </tr>
     <tr>
         <td>2026</td>
-        <td>honours in visual arts, australian national university </td>
-        <td>supervisor: dr kate hill </td>
-        </tr>
+        <td>honours in visual arts, australian national university<br/>supervisor: dr kate hill  </td>
+    </tr>
 </table>
 
 <br/>
 
 ### exhibition history 
+
 <table class="paired-content">
     <tr>
         <td>2024</td>
         <td><i>HoPE (Homies for the Planet Earth)</i> group exhibition, tributary projects  </td>
-     </tr>
-  <tr>
+    </tr>
+    <tr>
         <td>2023</td>
         <td><i>graduating exhibition</i>, anu school of art and design </td>
-        </tr>
-  <tr>
+    </tr>
+    <tr>
         <td>2023</td>
         <td><i>friday on my wall</i>, anu school of art and design </td>
-        </tr>
-  <tr>
+    </tr>
+    <tr>
         <td>2022</td>
         <td><i>anu art school students fight back!</i>, gang gang cafe and bar (co-curator and contributor) </td>
-        </tr>
- <tr>
+    </tr>
+    <tr>
         <td>2022</td>
         <td>finalist, <i>drawing prize</i>, anu school of art and design </td>
-        </tr>   
-   <tr>
+    </tr>   
+    <tr>
         <td>2022</td>
         <td><i>friday on my wall</i>, anu school of art and design </td>
-        </tr>   
-   <tr>
+    </tr>   
+    <tr>
         <td>2021</td>
         <td><i>RUST</i> pop-up gallery and fundraiser, canberra </td>
-        </tr>   
+    </tr>   
 </table>
 
 <br/>
 
 ### written works
- <table class="paired-content">
+
+<table class="paired-content">
     <tr>
         <td>2025</td>
-        <td><i>"art-making and world-making against institutional erasure: a case study of the Shababeek Memorial Gallery",</i> demos journal </td>
-        </tr>2024</td>
+        <td><i>"art-making and world-making against institutional erasure: a case study of the Shababeek Memorial Gallery"</i> demos journal </td>
+    </tr>
+    <tr>
+        <td>2024</td>
         <td><i>"walking",</i> river theory magazine </td>
     </tr>   
 </table>
