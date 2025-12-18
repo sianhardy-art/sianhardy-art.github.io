@@ -26,7 +26,7 @@ permalink: "/about/"
         <td>supervisor: dr kate hill </td>
     </tr>
 </table>
-<br/>
+
 
 ### exhibition history 
 <table class="paired-content">
@@ -69,3 +69,5 @@ permalink: "/about/"
         <td><i>"walking",</i> river theory magazine </td>
     </tr>   
 </table>
+
+<br/>
