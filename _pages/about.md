@@ -32,6 +32,10 @@ permalink: "/about/"
 
 ### exhibition history 
 <table class="paired-content">
+   <tr>
+        <td>2026</td>
+        <td> exhibiting artist,<i>GOLD DUST</i> festival </td>
+     </tr>
     <tr>
         <td>2024</td>
         <td><i>HoPE (Homies for the Planet Earth)</i> group exhibition, tributary projects  </td>
