@@ -37,7 +37,7 @@ permalink: "/about/"
 <table class="paired-content">
    <tr>
         <td>2026</td>
-        <td> exhibiting artist,<i>GOLD DUST</i> festival </td>
+        <td> exhibiting artist,<i> GOLD DUST</i> festival </td>
      </tr>
     <tr>
         <td>2024</td>
